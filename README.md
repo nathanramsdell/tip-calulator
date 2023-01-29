@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://tip-calculator.nathanramsdell.com)
 Find out what your tip should be!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
