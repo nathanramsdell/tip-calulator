@@ -103,13 +103,14 @@ function App() {
               </div>
             </form>
           </div>
+
           <div className='tip__right'>
             <div className='tip__right__amount flex'>
               <div className='section'>
                 <h5>Tip Amount</h5>
                 <p>/ person</p>
               </div>
-              <p className={`number--large ${peopleError ? 'error' : ''}`}>
+              <p  className={`number--large ${peopleError ? 'error' : ''}`}>
                 {checkPeopleError(tipTotalPerPerson)}
               </p>
             </div>
@@ -119,7 +120,8 @@ function App() {
                 <p>/ person</p>
               </div>
               <p className={`number--large ${peopleError ? 'error' : ''}`}>
-                {checkPeopleError(billTotalPerPerson)}
+              <img src={iconDollar} alt="input icon" width={20} height={30}  />
+                 {checkPeopleError(billTotalPerPerson)}
               </p>
             </div>
             <div className='tip__right__reset'>
