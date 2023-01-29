@@ -109,7 +109,7 @@ function App() {
                 <h5>Tip Amount</h5>
                 <p>/ person</p>
               </div>
-              <p className={`number--large ${peopleError ? 'error' : ''}`}>
+              <p className={`number--large ${peopleError ? 'error' : 'strong--cyan'}`}>
                 {checkPeopleError(tipTotalPerPerson)}
               </p>
             </div>
@@ -118,7 +118,7 @@ function App() {
                 <h5>Total</h5>
                 <p>/ person</p>
               </div>
-              <p className={`number--large ${peopleError ? 'error' : ''}`}>
+              <p className={`number--large ${peopleError ? 'error' : 'strong--cyan'}`}>
                 {checkPeopleError(billTotalPerPerson)}
               </p>
             </div>

@@ -84,6 +84,9 @@ input:focus {
   justify-content: space-between;
   align-items: center;
 }
+.strong--cyan {
+  color: var(--strong-cyan);
+}
 .error:focus,
 .error{
   outline-color: var(--error);
@@ -180,7 +183,6 @@ input.tip__left__selection__button {
 /* TIP RIGT */
 
 .number--large {
-  color: var(--strong-cyan);
   font-size: 2.5rem;
   font-weight: 800;
 }
