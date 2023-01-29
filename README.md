@@ -133,7 +133,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Nathan Ramsdell - nathan.ramsdell@nathanramsdell.com
+Nathan Ramsdell - ramsdell.28@gmail.com
 
 Project Link: [https://github.com/nathanramsdell/tip-calulator](https://github.com/nathanramsdell/tip-calulator)
 
